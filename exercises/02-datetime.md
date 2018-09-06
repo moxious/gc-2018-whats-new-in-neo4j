@@ -15,17 +15,19 @@
 
 1. Create a 3.4 database in Neo4j Desktop, start it, and open Neo4j Browser.
 2. What is the current date/time for our timezone?
+   *HINT: You may need to change the config parameter
 3. Specify today's date in String format and return only the month and year.
 4. Find the current date and time for UTC-06:00 for hours, minutes, and seconds.
-5. Find the duration in days and also in hours between the beginning and end of GraphConnect!
+5. What is the current date and time in Sydney, Australia?
+6. Find the duration in days and also in hours between the beginning and end of GraphConnect!
    *HINT: starts Sep20 at 09:00 and ends Sep22 at 17:00
-6. How many minutes are left from current time to the end of the session?
-6. What is the week number and ordinal date of the start of GraphConnect?
-7. Using your birthdate, find out how old you are in days.
+7. How many minutes are left from current time to the end of the session?
+8. What is the week number and ordinal date of the start of GraphConnect?
+9. Using your birthdate, find out how old you are in days.
    *HINT: You can return years first to make sure it returns your correct age. :)
-8. What is the current decade?
+9. What is the current decade?
    *HINT: Use truncation
-9. What date is 102 days from today?
+10. What date is 102 days from today?
 
 
 ## Exercise 2: Find Cities and Founded Years
