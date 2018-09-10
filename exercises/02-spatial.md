@@ -1,5 +1,15 @@
 # Spatial Exercises
 
+## Hints
+
+* Make sure to check the examples directory in this repo for code samples you
+can copy and paste to speed things up.
+* If you want to experiment with a cypher function, just call it with "RETURN" like this:
+
+```
+RETURN point({ latitude: 1, longitude: 1 });
+```
+
 ## Exercise 1: Find All Cities in an Area
 
 1.  Load the city data found in this repository
