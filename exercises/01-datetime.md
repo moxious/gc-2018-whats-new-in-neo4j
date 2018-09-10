@@ -9,7 +9,9 @@
 * Examples directory in this repository
 * Developer manual - Temporal Values: https://neo4j.com/docs/developer-manual/3.4/cypher/syntax/temporal/#cypher-temporal-specify-time-zone
 * Developer manual - Temporal Functions: https://neo4j.com/docs/developer-manual/3.4/cypher/functions/temporal/
+* **Hint**:  If you want to use a pure function in cypher and you don't have any data, just use it like this:
 
+```RETURN date();```
 
 ## Exercise 1: Work with Today and Nearby Dates/Times
 
