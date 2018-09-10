@@ -1,4 +1,4 @@
-# gc-2018-whats-new-in-neo4j
+# Graph Connect 2018: What's New In Neo4j 3.4
 
 This repo provides materials supporting the "What's New In Neo4j 3.4" presentation
 at [GraphConnect 2018](https://graphconnect.com/).
